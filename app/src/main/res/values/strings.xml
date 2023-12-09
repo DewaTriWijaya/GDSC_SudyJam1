@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GDSC Unikom</string>
+
+    <string name="column">Example Column</string>
+    <string name="row">Example Row</string>
+    <string name="box">Example Box</string>
+    <string name="image">Example Image</string>
+    <string name="state_calculator">State Calculator</string>
+
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+
+    <string name="gdsc_id">GDSC</string>
+</resources>
